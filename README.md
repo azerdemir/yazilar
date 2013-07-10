@@ -1,4 +1,4 @@
-yazilar
-=======
+Yazılarım
+==========
 
-Markdown kullanarak yazdigim yazilar
+Markdown kullanarak yazdığım yazılar
